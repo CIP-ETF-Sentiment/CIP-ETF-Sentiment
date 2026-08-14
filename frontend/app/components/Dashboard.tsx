@@ -67,13 +67,13 @@ export default function Dashboard({
       className="min-h-screen bg-emerald-50"
       onClick={() => setSelectedKeyword(null)}
     >
-      <header className="flex w-full items-center gap-3 border-b border-emerald-100 bg-white px-8 py-4">
-        <div className="flex h-11 w-11 items-center justify-center rounded-xl bg-emerald-600 text-lg font-bold text-white">
+      <header className="flex w-full items-center gap-3 border-b border-emerald-100 bg-white px-10 py-4">
+        <div className="flex h-16 w-16 items-center justify-center rounded-xl bg-emerald-600 text-2xl font-bold text-white">
           CIP
         </div>
         <div>
-          <h1 className="text-xl font-bold text-emerald-950">CIP 小樹洞</h1>
-          <p className="text-sm text-emerald-700">收集市場說出的心裡話</p>
+          <h1 className="text-4xl font-bold text-emerald-950">CIP 小樹洞</h1>
+          <p className="text-xl text-emerald-700">收集市場說出的心裡話</p>
         </div>
       </header>
 
