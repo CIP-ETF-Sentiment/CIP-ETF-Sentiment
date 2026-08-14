@@ -4,6 +4,7 @@ import { useMemo, useState } from "react";
 import WordCloud from "./WordCloud";
 import TrendChart from "./TrendChart";
 import KeywordTrendChart from "./KeywordTrendChart";
+import AgentChat from "./AgentChat";
 import type { TrendSeries } from "../lib/trends.server";
 import {
   isBreakout,
@@ -212,6 +213,8 @@ export default function Dashboard({
           </div>
         </section>
       </main>
+
+      <AgentChat />
     </div>
   );
 }
