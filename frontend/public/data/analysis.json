@@ -1,0 +1,2162 @@
+[
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00981A 績效",
+    "historical_mean": 0.1,
+    "current_mean": 23.0,
+    "z_score": 30.87
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00981A 經理人",
+    "historical_mean": 0.12,
+    "current_mean": 13.56,
+    "z_score": 29.48
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "陳釧瑤 00981A",
+    "historical_mean": 0.06,
+    "current_mean": 11.35,
+    "z_score": 27.41
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF推薦2026",
+    "historical_mean": 0.4,
+    "current_mean": 45.49,
+    "z_score": 26.15
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "國泰動能高息",
+    "historical_mean": 0.12,
+    "current_mean": 21.32,
+    "z_score": 24.12
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00993A",
+    "historical_mean": 0.16,
+    "current_mean": 21.84,
+    "z_score": 19.7
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "陳釧瑤",
+    "historical_mean": 0.19,
+    "current_mean": 12.44,
+    "z_score": 17.98
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "主動ETF排名",
+    "historical_mean": 0.28,
+    "current_mean": 24.84,
+    "z_score": 11.92
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "主動群益科技創新",
+    "historical_mean": 0.17,
+    "current_mean": 14.73,
+    "z_score": 11.77
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "主動復華未來50",
+    "historical_mean": 1.12,
+    "current_mean": 58.41,
+    "z_score": 9.13
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00991A",
+    "historical_mean": 1.02,
+    "current_mean": 50.4,
+    "z_score": 8.38
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "群益科技創新",
+    "historical_mean": 1.85,
+    "current_mean": 26.74,
+    "z_score": 7.82
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00992A 持股",
+    "historical_mean": 0.12,
+    "current_mean": 6.75,
+    "z_score": 7.42
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "AI ETF",
+    "historical_mean": 3.15,
+    "current_mean": 35.46,
+    "z_score": 7.4
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "野村台灣新科技50",
+    "historical_mean": 0.3,
+    "current_mean": 15.76,
+    "z_score": 7.15
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "主動ETF比較",
+    "historical_mean": 1.32,
+    "current_mean": 30.31,
+    "z_score": 6.44
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "科技ETF",
+    "historical_mean": 10.01,
+    "current_mean": 45.04,
+    "z_score": 5.6
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF怎麼投資",
+    "historical_mean": 1.68,
+    "current_mean": 27.3,
+    "z_score": 5.59
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00992A 績效",
+    "historical_mean": 0.19,
+    "current_mean": 7.56,
+    "z_score": 5.36
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "主動式ETF有哪些",
+    "historical_mean": 1.47,
+    "current_mean": 30.25,
+    "z_score": 5.27
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "高股息ETF推薦",
+    "historical_mean": 4.06,
+    "current_mean": 45.84,
+    "z_score": 5.25
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "主動型ETF",
+    "historical_mean": 2.9,
+    "current_mean": 37.18,
+    "z_score": 5.01
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF比較",
+    "historical_mean": 0.3,
+    "current_mean": 10.97,
+    "z_score": 4.93
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF新手",
+    "historical_mean": 1.06,
+    "current_mean": 19.35,
+    "z_score": 4.86
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "半導體漲價",
+    "historical_mean": 0.33,
+    "current_mean": 8.53,
+    "z_score": 4.8
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "產業ETF",
+    "historical_mean": 1.9,
+    "current_mean": 25.67,
+    "z_score": 4.67
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "醫療ETF",
+    "historical_mean": 1.18,
+    "current_mean": 16.62,
+    "z_score": 4.12
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "科技ETF成分股",
+    "historical_mean": 1.87,
+    "current_mean": 21.98,
+    "z_score": 4.09
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF推薦",
+    "historical_mean": 4.17,
+    "current_mean": 37.22,
+    "z_score": 4.08
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "半導體下跌",
+    "historical_mean": 0.35,
+    "current_mean": 10.78,
+    "z_score": 4.05
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF",
+    "historical_mean": 24.66,
+    "current_mean": 60.67,
+    "z_score": 3.69
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "群益台灣強棒",
+    "historical_mean": 1.28,
+    "current_mean": 21.56,
+    "z_score": 3.56
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "海外ETF",
+    "historical_mean": 8.07,
+    "current_mean": 44.85,
+    "z_score": 3.46
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "季配息ETF",
+    "historical_mean": 13.49,
+    "current_mean": 49.07,
+    "z_score": 3.41
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "00891",
+    "historical_mean": 15.89,
+    "current_mean": 39.96,
+    "z_score": 3.09
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00878 00919 比較",
+    "historical_mean": 0.47,
+    "current_mean": 10.44,
+    "z_score": 2.9
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "00935",
+    "historical_mean": 10.03,
+    "current_mean": 42.8,
+    "z_score": 2.81
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "能源ETF",
+    "historical_mean": 7.76,
+    "current_mean": 43.37,
+    "z_score": 2.79
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "高股息ETF比較",
+    "historical_mean": 0.69,
+    "current_mean": 10.31,
+    "z_score": 2.74
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "0056報酬率",
+    "historical_mean": 4.32,
+    "current_mean": 24.22,
+    "z_score": 2.63
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF是什麼",
+    "historical_mean": 15.78,
+    "current_mean": 34.85,
+    "z_score": 2.56
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF每月投資",
+    "historical_mean": 0.38,
+    "current_mean": 7.25,
+    "z_score": 2.5
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "半導體ETF",
+    "historical_mean": 18.18,
+    "current_mean": 46.32,
+    "z_score": 2.49
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF規模",
+    "historical_mean": 17.71,
+    "current_mean": 46.18,
+    "z_score": 2.49
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "0056配息",
+    "historical_mean": 14.81,
+    "current_mean": 29.29,
+    "z_score": 2.48
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF配息排行",
+    "historical_mean": 8.96,
+    "current_mean": 48.03,
+    "z_score": 2.48
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "軍工ETF",
+    "historical_mean": 2.31,
+    "current_mean": 17.84,
+    "z_score": 2.48
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF定期定額",
+    "historical_mean": 25.24,
+    "current_mean": 47.56,
+    "z_score": 2.45
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "定期定額ETF",
+    "historical_mean": 26.29,
+    "current_mean": 50.13,
+    "z_score": 2.45
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF殖利率",
+    "historical_mean": 0.45,
+    "current_mean": 6.09,
+    "z_score": 2.44
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF哪個好",
+    "historical_mean": 1.1,
+    "current_mean": 12.33,
+    "z_score": 2.42
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "美股ETF",
+    "historical_mean": 31.66,
+    "current_mean": 59.9,
+    "z_score": 2.29
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF推薦",
+    "historical_mean": 30.68,
+    "current_mean": 62.22,
+    "z_score": 2.27
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00981A 00982A",
+    "historical_mean": 5.97,
+    "current_mean": 43.58,
+    "z_score": 2.24
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "金融ETF",
+    "historical_mean": 21.95,
+    "current_mean": 41.29,
+    "z_score": 2.15
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00400A 經理人",
+    "historical_mean": 0.47,
+    "current_mean": 7.69,
+    "z_score": 2.1
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF複利",
+    "historical_mean": 1.53,
+    "current_mean": 11.56,
+    "z_score": 2.06
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "黃金ETF",
+    "historical_mean": 7.24,
+    "current_mean": 23.89,
+    "z_score": 2.02
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00878報酬率",
+    "historical_mean": 3.67,
+    "current_mean": 18.98,
+    "z_score": 1.96
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "配息ETF",
+    "historical_mean": 33.91,
+    "current_mean": 67.88,
+    "z_score": 1.96
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00878 vs 00919",
+    "historical_mean": 0.36,
+    "current_mean": 5.5,
+    "z_score": 1.94
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF配息",
+    "historical_mean": 34.15,
+    "current_mean": 68.24,
+    "z_score": 1.94
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "美國ETF",
+    "historical_mean": 37.09,
+    "current_mean": 59.31,
+    "z_score": 1.9
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "月配息高股息ETF",
+    "historical_mean": 0.47,
+    "current_mean": 6.47,
+    "z_score": 1.75
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "美股ETF推薦",
+    "historical_mean": 19.44,
+    "current_mean": 51.3,
+    "z_score": 1.75
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "月配息ETF",
+    "historical_mean": 26.39,
+    "current_mean": 63.68,
+    "z_score": 1.73
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "AI ETF風險",
+    "historical_mean": 0.4,
+    "current_mean": 5.38,
+    "z_score": 1.7
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF有哪些",
+    "historical_mean": 0.63,
+    "current_mean": 5.88,
+    "z_score": 1.62
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00919報酬率",
+    "historical_mean": 1.92,
+    "current_mean": 11.47,
+    "z_score": 1.49
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF泡沫",
+    "historical_mean": 0.7,
+    "current_mean": 5.88,
+    "z_score": 1.45
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF怎麼選",
+    "historical_mean": 0.39,
+    "current_mean": 4.44,
+    "z_score": 1.42
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "0056 vs 00878",
+    "historical_mean": 1.68,
+    "current_mean": 9.26,
+    "z_score": 1.39
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF怎麼買",
+    "historical_mean": 16.14,
+    "current_mean": 27.5,
+    "z_score": 1.3
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "0056填息",
+    "historical_mean": 3.2,
+    "current_mean": 10.68,
+    "z_score": 1.29
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "AI股修正",
+    "historical_mean": 0.76,
+    "current_mean": 5.72,
+    "z_score": 1.24
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF有哪些",
+    "historical_mean": 0.61,
+    "current_mean": 4.53,
+    "z_score": 1.23
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "0056 00878 比較",
+    "historical_mean": 1.54,
+    "current_mean": 9.57,
+    "z_score": 1.22
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00878配息",
+    "historical_mean": 28.16,
+    "current_mean": 41.29,
+    "z_score": 1.22
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF調整成分股",
+    "historical_mean": 0.3,
+    "current_mean": 2.94,
+    "z_score": 1.22
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "5G ETF",
+    "historical_mean": 9.2,
+    "current_mean": 29.4,
+    "z_score": 1.19
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "0056定期定額",
+    "historical_mean": 13.0,
+    "current_mean": 29.56,
+    "z_score": 1.17
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00919",
+    "historical_mean": 17.39,
+    "current_mean": 35.02,
+    "z_score": 1.09
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "0056績效",
+    "historical_mean": 1.72,
+    "current_mean": 8.28,
+    "z_score": 1.08
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "群益台灣精選高息",
+    "historical_mean": 19.93,
+    "current_mean": 40.26,
+    "z_score": 1.07
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF折溢價",
+    "historical_mean": 8.59,
+    "current_mean": 19.82,
+    "z_score": 1.06
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF比較",
+    "historical_mean": 0.46,
+    "current_mean": 3.97,
+    "z_score": 1.04
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF換股",
+    "historical_mean": 5.98,
+    "current_mean": 18.14,
+    "z_score": 1.04
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00878二代健保",
+    "historical_mean": 2.39,
+    "current_mean": 9.19,
+    "z_score": 1.0
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00929報酬率",
+    "historical_mean": 0.97,
+    "current_mean": 4.97,
+    "z_score": 0.98
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF投資組合",
+    "historical_mean": 0.75,
+    "current_mean": 4.38,
+    "z_score": 0.94
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "產業ETF成分股",
+    "historical_mean": 0.45,
+    "current_mean": 3.5,
+    "z_score": 0.94
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "非投資級債ETF",
+    "historical_mean": 0.38,
+    "current_mean": 2.94,
+    "z_score": 0.93
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF申購",
+    "historical_mean": 2.82,
+    "current_mean": 8.17,
+    "z_score": 0.8
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "產業ETF會賠錢嗎",
+    "historical_mean": 0.38,
+    "current_mean": 2.4,
+    "z_score": 0.74
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "0056成分股",
+    "historical_mean": 31.79,
+    "current_mean": 38.41,
+    "z_score": 0.71
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF缺點",
+    "historical_mean": 0.98,
+    "current_mean": 3.88,
+    "z_score": 0.71
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00919費用",
+    "historical_mean": 2.68,
+    "current_mean": 8.21,
+    "z_score": 0.7
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF風險",
+    "historical_mean": 0.75,
+    "current_mean": 3.41,
+    "z_score": 0.69
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "0056 00878",
+    "historical_mean": 35.81,
+    "current_mean": 42.96,
+    "z_score": 0.58
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00919成分股",
+    "historical_mean": 9.31,
+    "current_mean": 14.26,
+    "z_score": 0.47
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "00892",
+    "historical_mean": 26.32,
+    "current_mean": 35.95,
+    "z_score": 0.46
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF殖利率",
+    "historical_mean": 32.35,
+    "current_mean": 39.62,
+    "z_score": 0.38
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00878",
+    "historical_mean": 42.98,
+    "current_mean": 47.45,
+    "z_score": 0.33
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "野村臺灣優選",
+    "historical_mean": 1.55,
+    "current_mean": 3.34,
+    "z_score": 0.25
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00878費用",
+    "historical_mean": 4.06,
+    "current_mean": 6.18,
+    "z_score": 0.25
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF淨值",
+    "historical_mean": 24.95,
+    "current_mean": 27.47,
+    "z_score": 0.25
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF是什麼",
+    "historical_mean": 0.47,
+    "current_mean": 1.22,
+    "z_score": 0.22
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF定期定額",
+    "historical_mean": 0.38,
+    "current_mean": 0.75,
+    "z_score": 0.14
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00929定期定額",
+    "historical_mean": 0.47,
+    "current_mean": 0.91,
+    "z_score": 0.13
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "00935 除息",
+    "historical_mean": 0.78,
+    "current_mean": 1.28,
+    "z_score": 0.12
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00713好嗎",
+    "historical_mean": 0.38,
+    "current_mean": 0.53,
+    "z_score": 0.06
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00919成分股調整",
+    "historical_mean": 2.86,
+    "current_mean": 3.26,
+    "z_score": 0.05
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "長債ETF",
+    "historical_mean": 0.71,
+    "current_mean": 0.81,
+    "z_score": 0.03
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "0056 00878 差別",
+    "historical_mean": 0.47,
+    "current_mean": 0.56,
+    "z_score": 0.03
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "科技股修正",
+    "historical_mean": 0.38,
+    "current_mean": 0.44,
+    "z_score": 0.02
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "生技新藥",
+    "historical_mean": 5.11,
+    "current_mean": 5.25,
+    "z_score": 0.01
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF入門",
+    "historical_mean": 0.79,
+    "current_mean": 0.75,
+    "z_score": -0.01
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF怎麼選",
+    "historical_mean": 1.22,
+    "current_mean": 1.16,
+    "z_score": -0.01
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF規模創新高",
+    "historical_mean": 0.71,
+    "current_mean": 0.69,
+    "z_score": -0.01
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "航運ETF",
+    "historical_mean": 2.98,
+    "current_mean": 2.73,
+    "z_score": -0.02
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF配息稅",
+    "historical_mean": 0.47,
+    "current_mean": 0.38,
+    "z_score": -0.03
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "復華未來50 持股",
+    "historical_mean": 0.58,
+    "current_mean": 0.41,
+    "z_score": -0.05
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券型ETF",
+    "historical_mean": 8.19,
+    "current_mean": 7.53,
+    "z_score": -0.05
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "元大台灣價值高息",
+    "historical_mean": 3.96,
+    "current_mean": 3.03,
+    "z_score": -0.1
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF年化報酬率",
+    "historical_mean": 0.79,
+    "current_mean": 0.38,
+    "z_score": -0.1
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF被動收入",
+    "historical_mean": 0.74,
+    "current_mean": 0.38,
+    "z_score": -0.1
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00919 00940",
+    "historical_mean": 7.94,
+    "current_mean": 6.62,
+    "z_score": -0.11
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00940",
+    "historical_mean": 3.18,
+    "current_mean": 2.29,
+    "z_score": -0.12
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00940好嗎",
+    "historical_mean": 1.04,
+    "current_mean": 0.31,
+    "z_score": -0.12
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00980A 換股",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "統一台股增長 績效",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "復華未來50 換股",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "群益台灣強棒 績效",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "群益台灣強棒 經理人",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "群益台灣強棒 換股",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "群益科技創新 持股",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "群益科技創新 換股",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "新興市場債ETF",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "新興市場公司債ETF",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "美元公司債ETF",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "高配息債券ETF",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "投資級債ETF殖利率",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "降息債券ETF",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "聯準會降息美債",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "降息長天期債券ETF",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF會賠錢嗎",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "國泰新興投等債",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "00754B",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "復華能源債",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "復華製藥債",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "復華新興企業債",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF總報酬率",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF每月配息",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF左手換右手",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF 54C",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息自製月配息",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "清流君 高股息",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "柴鼠兄弟 高股息",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "陳重銘 0056",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "ETF適合新手嗎",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "產業ETF比較",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "產業ETF怎麼選",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "半導體ETF風險",
+    "historical_mean": 0.38,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF資金流入",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "科技ETF資金流入",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "現在買半導體ETF會不會太晚",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "富邦台灣半導體",
+    "historical_mean": 8.64,
+    "current_mean": 6.47,
+    "z_score": -0.14
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "00892 vs 00904",
+    "historical_mean": 0.47,
+    "current_mean": 0.0,
+    "z_score": -0.14
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00919 00929",
+    "historical_mean": 18.12,
+    "current_mean": 14.74,
+    "z_score": -0.16
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00878收益平準金",
+    "historical_mean": 1.26,
+    "current_mean": 0.44,
+    "z_score": -0.16
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "00760B",
+    "historical_mean": 1.5,
+    "current_mean": 0.0,
+    "z_score": -0.17
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "主動ETF值得買嗎",
+    "historical_mean": 0.65,
+    "current_mean": 0.0,
+    "z_score": -0.18
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "美元債ETF",
+    "historical_mean": 1.67,
+    "current_mean": 0.72,
+    "z_score": -0.18
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "月配債券ETF",
+    "historical_mean": 2.62,
+    "current_mean": 1.47,
+    "z_score": -0.18
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "復華未來50 績效",
+    "historical_mean": 1.0,
+    "current_mean": 0.0,
+    "z_score": -0.19
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "群益台灣強棒 持股",
+    "historical_mean": 0.77,
+    "current_mean": 0.0,
+    "z_score": -0.19
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF報酬率",
+    "historical_mean": 0.76,
+    "current_mean": 0.0,
+    "z_score": -0.19
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF利率風險",
+    "historical_mean": 0.79,
+    "current_mean": 0.0,
+    "z_score": -0.19
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00878換股時間",
+    "historical_mean": 0.78,
+    "current_mean": 0.0,
+    "z_score": -0.19
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "半導體庫存",
+    "historical_mean": 0.65,
+    "current_mean": 0.0,
+    "z_score": -0.19
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "人形機器人ETF",
+    "historical_mean": 0.62,
+    "current_mean": 0.0,
+    "z_score": -0.19
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00993A 持股",
+    "historical_mean": 0.89,
+    "current_mean": 0.0,
+    "z_score": -0.2
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "群益科技創新 經理人",
+    "historical_mean": 0.85,
+    "current_mean": 0.0,
+    "z_score": -0.2
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF怎麼買",
+    "historical_mean": 0.86,
+    "current_mean": 0.0,
+    "z_score": -0.2
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "新興市場投資級債ETF",
+    "historical_mean": 0.84,
+    "current_mean": 0.0,
+    "z_score": -0.2
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "投資級債ETF配息",
+    "historical_mean": 0.85,
+    "current_mean": 0.0,
+    "z_score": -0.2
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "降息長債",
+    "historical_mean": 0.92,
+    "current_mean": 0.0,
+    "z_score": -0.2
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00940長榮比重",
+    "historical_mean": 0.76,
+    "current_mean": 0.0,
+    "z_score": -0.2
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF質押",
+    "historical_mean": 0.91,
+    "current_mean": 0.0,
+    "z_score": -0.2
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00940報酬率",
+    "historical_mean": 1.45,
+    "current_mean": 0.0,
+    "z_score": -0.22
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "國泰優選非投等債",
+    "historical_mean": 1.0,
+    "current_mean": 0.0,
+    "z_score": -0.23
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "投資級公司債ETF",
+    "historical_mean": 1.05,
+    "current_mean": 0.0,
+    "z_score": -0.24
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00929經理費",
+    "historical_mean": 1.11,
+    "current_mean": 0.0,
+    "z_score": -0.24
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "00726B",
+    "historical_mean": 1.22,
+    "current_mean": 0.0,
+    "z_score": -0.27
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "復華台灣科技優息",
+    "historical_mean": 14.18,
+    "current_mean": 8.97,
+    "z_score": -0.28
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "海外債券ETF",
+    "historical_mean": 1.48,
+    "current_mean": 0.0,
+    "z_score": -0.31
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "中信綠能電動車",
+    "historical_mean": 6.78,
+    "current_mean": 2.13,
+    "z_score": -0.31
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "綠能ETF",
+    "historical_mean": 2.99,
+    "current_mean": 0.09,
+    "z_score": -0.32
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00713",
+    "historical_mean": 27.52,
+    "current_mean": 21.78,
+    "z_score": -0.34
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "0056怎麼買",
+    "historical_mean": 5.79,
+    "current_mean": 1.66,
+    "z_score": -0.35
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00878成分股",
+    "historical_mean": 37.21,
+    "current_mean": 32.17,
+    "z_score": -0.4
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF推薦",
+    "historical_mean": 9.52,
+    "current_mean": 4.01,
+    "z_score": -0.43
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "元大台灣高息低波",
+    "historical_mean": 4.45,
+    "current_mean": 1.06,
+    "z_score": -0.43
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "00893 淨值",
+    "historical_mean": 7.84,
+    "current_mean": 0.92,
+    "z_score": -0.47
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "美債ETF配息",
+    "historical_mean": 13.61,
+    "current_mean": 3.9,
+    "z_score": -0.48
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "利率債券ETF",
+    "historical_mean": 13.41,
+    "current_mean": 4.53,
+    "z_score": -0.49
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "美國20年公債ETF",
+    "historical_mean": 10.46,
+    "current_mean": 1.06,
+    "z_score": -0.52
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "美債ETF殖利率",
+    "historical_mean": 14.96,
+    "current_mean": 4.8,
+    "z_score": -0.52
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF殖利率",
+    "historical_mean": 5.73,
+    "current_mean": 0.91,
+    "z_score": -0.53
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "國泰永續高股息",
+    "historical_mean": 39.32,
+    "current_mean": 31.26,
+    "z_score": -0.57
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF",
+    "historical_mean": 33.72,
+    "current_mean": 22.98,
+    "z_score": -0.58
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "美債ETF推薦",
+    "historical_mean": 11.2,
+    "current_mean": 0.66,
+    "z_score": -0.59
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "債券ETF",
+    "historical_mean": 34.01,
+    "current_mean": 22.83,
+    "z_score": -0.6
+  },
+  {
+    "category": "market_cap_etf",
+    "category_label": "市值型ETF",
+    "keyword": "美債ETF",
+    "historical_mean": 26.87,
+    "current_mean": 12.78,
+    "z_score": -0.65
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "美債ETF",
+    "historical_mean": 27.18,
+    "current_mean": 12.81,
+    "z_score": -0.66
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "公債ETF",
+    "historical_mean": 32.1,
+    "current_mean": 15.76,
+    "z_score": -0.73
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "00679B",
+    "historical_mean": 37.24,
+    "current_mean": 18.04,
+    "z_score": -0.79
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "美國公債ETF",
+    "historical_mean": 28.47,
+    "current_mean": 8.54,
+    "z_score": -0.83
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "20年美債ETF",
+    "historical_mean": 22.39,
+    "current_mean": 3.14,
+    "z_score": -0.85
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "主動ETF怎麼選",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "主動ETF經理人",
+    "historical_mean": 0.0,
+    "current_mean": 21.1,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "主動ETF換股",
+    "historical_mean": 0.0,
+    "current_mean": 8.25,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00403A",
+    "historical_mean": 0.0,
+    "current_mean": 13.68,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00400A",
+    "historical_mean": 0.0,
+    "current_mean": 34.19,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "主動統一升級50",
+    "historical_mean": 0.0,
+    "current_mean": 12.77,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00981A 換股",
+    "historical_mean": 0.0,
+    "current_mean": 5.78,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00403A 持股",
+    "historical_mean": 0.0,
+    "current_mean": 11.86,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00980A 持股",
+    "historical_mean": 0.0,
+    "current_mean": 9.5,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00980A 經理人",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00400A 績效",
+    "historical_mean": 0.0,
+    "current_mean": 8.12,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00400A 換股",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "00993A 換股",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "統一升級50 績效",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "統一升級50 經理人",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "active_etf",
+    "category_label": "主動式ETF",
+    "keyword": "群益科技創新 績效",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF怎麼選",
+    "historical_mean": 0.0,
+    "current_mean": 3.12,
+    "z_score": null
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "企業債ETF",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "長天期美債ETF",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "亞洲債券ETF",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "美國高收益債ETF",
+    "historical_mean": 0.0,
+    "current_mean": 2.5,
+    "z_score": null
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "高息債券ETF",
+    "historical_mean": 0.0,
+    "current_mean": 6.25,
+    "z_score": null
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF配息排行",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "美國降息債券ETF",
+    "historical_mean": 0.0,
+    "current_mean": 3.12,
+    "z_score": null
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF匯率風險",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF信用風險",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "債券ETF推薦比較",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "bond_etf",
+    "category_label": "債券型ETF",
+    "keyword": "00734B",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF怎麼選",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00919好嗎",
+    "historical_mean": 0.0,
+    "current_mean": 20.73,
+    "z_score": null
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00929好嗎",
+    "historical_mean": 0.0,
+    "current_mean": 8.16,
+    "z_score": null
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00919績效",
+    "historical_mean": 0.0,
+    "current_mean": 14.41,
+    "z_score": null
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00929績效",
+    "historical_mean": 0.0,
+    "current_mean": 8.22,
+    "z_score": null
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF風險",
+    "historical_mean": 0.0,
+    "current_mean": 3.5,
+    "z_score": null
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF折溢價",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "0056保管費",
+    "historical_mean": 0.0,
+    "current_mean": 8.0,
+    "z_score": null
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF稅",
+    "historical_mean": 0.0,
+    "current_mean": 11.75,
+    "z_score": null
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "高股息ETF補充保費",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "0056股票質押",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "00878質押維持率",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "high_dividend_etf",
+    "category_label": "高股息ETF",
+    "keyword": "吃豆腐 00940",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "產業ETF推薦",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "新能源ETF",
+    "historical_mean": 0.0,
+    "current_mean": 7.12,
+    "z_score": null
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF單位數",
+    "historical_mean": 0.0,
+    "current_mean": 8.62,
+    "z_score": null
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF溢價過高",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF追高",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF套牢",
+    "historical_mean": 0.0,
+    "current_mean": 6.5,
+    "z_score": null
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "產業ETF風險",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF調節",
+    "historical_mean": 0.0,
+    "current_mean": 3.12,
+    "z_score": null
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "ETF換股名單",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  },
+  {
+    "category": "sector_etf",
+    "category_label": "產業型ETF",
+    "keyword": "00891 vs 00892",
+    "historical_mean": null,
+    "current_mean": null,
+    "z_score": null
+  }
+]

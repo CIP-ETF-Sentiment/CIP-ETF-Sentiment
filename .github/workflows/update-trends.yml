@@ -1,0 +1,33 @@
+name: Build ETF Trends Data
+
+on:
+  push:
+    paths:
+      - "backend/raw/*.csv"
+  workflow_dispatch: {}
+
+jobs:
+  build-dataset:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r backend/requirements.txt
+
+      - name: Build dataset from raw CSVs
+        run: python backend/build_dataset.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add frontend/public/data/*.json
+          git diff --staged --quiet || git commit -m "chore: rebuild trends data from raw CSVs"
+          git push
