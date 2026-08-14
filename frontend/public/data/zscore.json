@@ -1,0 +1,2434 @@
+{
+  "categories": [
+    {
+      "slug": "active_etf",
+      "label": "主動式ETF",
+      "keywords": [
+        {
+          "keyword": "00400A",
+          "historical_mean": 0.0,
+          "mean_2026": 34.1875,
+          "recent_3m_mean": 35.8333,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "主動ETF經理人",
+          "historical_mean": 0.0,
+          "mean_2026": 21.1,
+          "recent_3m_mean": 11.0833,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "主動ETF換股",
+          "historical_mean": 0.0,
+          "mean_2026": 8.25,
+          "recent_3m_mean": 22.0,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "00403A",
+          "historical_mean": 0.0,
+          "mean_2026": 13.675,
+          "recent_3m_mean": 15.0833,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "00403A 持股",
+          "historical_mean": 0.0,
+          "mean_2026": 11.8625,
+          "recent_3m_mean": 10.25,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "00400A 績效",
+          "historical_mean": 0.0,
+          "mean_2026": 8.125,
+          "recent_3m_mean": 21.6667,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "00980A 持股",
+          "historical_mean": 0.0,
+          "mean_2026": 9.5,
+          "recent_3m_mean": 25.3333,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "00981A 換股",
+          "historical_mean": 0.0,
+          "mean_2026": 5.7812,
+          "recent_3m_mean": 3.5833,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "主動統一升級50",
+          "historical_mean": 0.0,
+          "mean_2026": 12.7688,
+          "recent_3m_mean": 16.5833,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "00981A 績效",
+          "historical_mean": 0.1019,
+          "mean_2026": 23.0,
+          "recent_3m_mean": 17.75,
+          "z_2026": 30.8705,
+          "z_2026_breakout": false,
+          "recent_z": 23.7926,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00981A 經理人",
+          "historical_mean": 0.1198,
+          "mean_2026": 13.5625,
+          "recent_3m_mean": 6.0,
+          "z_2026": 29.4809,
+          "z_2026_breakout": false,
+          "recent_z": 12.8957,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "國泰動能高息",
+          "historical_mean": 0.1208,
+          "mean_2026": 21.325,
+          "recent_3m_mean": 11.1667,
+          "z_2026": 24.1202,
+          "z_2026_breakout": false,
+          "recent_z": 12.5649,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "主動復華未來50",
+          "historical_mean": 1.1189,
+          "mean_2026": 58.4125,
+          "recent_3m_mean": 73.4167,
+          "z_2026": 9.1329,
+          "z_2026_breakout": false,
+          "recent_z": 11.5247,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00991A",
+          "historical_mean": 1.016,
+          "mean_2026": 50.4,
+          "recent_3m_mean": 66.8333,
+          "z_2026": 8.3806,
+          "z_2026_breakout": false,
+          "recent_z": 11.1694,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "主動ETF排名",
+          "historical_mean": 0.283,
+          "mean_2026": 24.8438,
+          "recent_3m_mean": 19.5,
+          "z_2026": 11.9203,
+          "z_2026_breakout": false,
+          "recent_z": 9.3268,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "陳釧瑤",
+          "historical_mean": 0.1877,
+          "mean_2026": 12.4437,
+          "recent_3m_mean": 5.75,
+          "z_2026": 17.9826,
+          "z_2026_breakout": false,
+          "recent_z": 8.1612,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00993A",
+          "historical_mean": 0.1623,
+          "mean_2026": 21.8438,
+          "recent_3m_mean": 7.75,
+          "z_2026": 19.7035,
+          "z_2026_breakout": false,
+          "recent_z": 6.8955,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "陳釧瑤 00981A",
+          "historical_mean": 0.0566,
+          "mean_2026": 11.35,
+          "recent_3m_mean": 2.8333,
+          "z_2026": 27.4057,
+          "z_2026_breakout": false,
+          "recent_z": 6.7383,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "主動群益科技創新",
+          "historical_mean": 0.1698,
+          "mean_2026": 14.725,
+          "recent_3m_mean": 8.0833,
+          "z_2026": 11.7737,
+          "z_2026_breakout": false,
+          "recent_z": 6.4013,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "群益科技創新",
+          "historical_mean": 1.8481,
+          "mean_2026": 26.7437,
+          "recent_3m_mean": 18.5833,
+          "z_2026": 7.8232,
+          "z_2026_breakout": false,
+          "recent_z": 5.2589,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "主動ETF比較",
+          "historical_mean": 1.317,
+          "mean_2026": 30.3125,
+          "recent_3m_mean": 24.75,
+          "z_2026": 6.4415,
+          "z_2026_breakout": false,
+          "recent_z": 5.2057,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "主動式ETF有哪些",
+          "historical_mean": 1.4708,
+          "mean_2026": 30.25,
+          "recent_3m_mean": 21.0833,
+          "z_2026": 5.268,
+          "z_2026_breakout": false,
+          "recent_z": 3.5901,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "主動型ETF",
+          "historical_mean": 2.9047,
+          "mean_2026": 37.1813,
+          "recent_3m_mean": 26.1667,
+          "z_2026": 5.0074,
+          "z_2026_breakout": false,
+          "recent_z": 3.3983,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "群益台灣強棒",
+          "historical_mean": 1.2821,
+          "mean_2026": 21.5625,
+          "recent_3m_mean": 10.0,
+          "z_2026": 3.5566,
+          "z_2026_breakout": false,
+          "recent_z": 1.5289,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00981A 00982A",
+          "historical_mean": 5.9698,
+          "mean_2026": 43.575,
+          "recent_3m_mean": 29.9167,
+          "z_2026": 2.2376,
+          "z_2026_breakout": false,
+          "recent_z": 1.4249,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00992A 持股",
+          "historical_mean": 0.1226,
+          "mean_2026": 6.75,
+          "recent_3m_mean": 1.0833,
+          "z_2026": 7.4228,
+          "z_2026_breakout": false,
+          "recent_z": 1.076,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "野村臺灣優選",
+          "historical_mean": 1.5472,
+          "mean_2026": 3.3438,
+          "recent_3m_mean": 8.9167,
+          "z_2026": 0.2545,
+          "z_2026_breakout": false,
+          "recent_z": 1.0441,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00992A 績效",
+          "historical_mean": 0.1887,
+          "mean_2026": 7.5563,
+          "recent_3m_mean": 1.25,
+          "z_2026": 5.3637,
+          "z_2026_breakout": false,
+          "recent_z": 0.7727,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "復華未來50 持股",
+          "historical_mean": 0.5755,
+          "mean_2026": 0.4062,
+          "recent_3m_mean": 1.0833,
+          "z_2026": -0.055,
+          "z_2026_breakout": false,
+          "recent_z": 0.165,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00400A 經理人",
+          "historical_mean": 0.4717,
+          "mean_2026": 7.6875,
+          "recent_3m_mean": 0.3333,
+          "z_2026": 2.1013,
+          "z_2026_breakout": false,
+          "recent_z": -0.0403,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00980A 換股",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "群益台灣強棒 換股",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "群益科技創新 換股",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "復華未來50 換股",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "統一台股增長 績效",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "群益科技創新 持股",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "群益台灣強棒 績效",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "群益台灣強棒 經理人",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "主動ETF值得買嗎",
+          "historical_mean": 0.6453,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1775,
+          "z_2026_breakout": false,
+          "recent_z": -0.1775,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "復華未來50 績效",
+          "historical_mean": 1.0047,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1868,
+          "z_2026_breakout": false,
+          "recent_z": -0.1868,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "群益台灣強棒 持股",
+          "historical_mean": 0.7736,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1914,
+          "z_2026_breakout": false,
+          "recent_z": -0.1914,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "群益科技創新 經理人",
+          "historical_mean": 0.8538,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.195,
+          "z_2026_breakout": false,
+          "recent_z": -0.195,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00993A 持股",
+          "historical_mean": 0.8915,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1958,
+          "z_2026_breakout": false,
+          "recent_z": -0.1958,
+          "recent_z_breakout": false
+        }
+      ]
+    },
+    {
+      "slug": "bond_etf",
+      "label": "債券型ETF",
+      "keywords": [
+        {
+          "keyword": "高息債券ETF",
+          "historical_mean": 0.0,
+          "mean_2026": 6.25,
+          "recent_3m_mean": 16.6667,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "債券ETF是什麼",
+          "historical_mean": 0.4717,
+          "mean_2026": 1.2188,
+          "recent_3m_mean": 3.25,
+          "z_2026": 0.2175,
+          "z_2026_breakout": false,
+          "recent_z": 0.8091,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "債券ETF比較",
+          "historical_mean": 0.4623,
+          "mean_2026": 3.9688,
+          "recent_3m_mean": 2.25,
+          "z_2026": 1.0419,
+          "z_2026_breakout": false,
+          "recent_z": 0.5312,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "債券ETF有哪些",
+          "historical_mean": 0.6321,
+          "mean_2026": 5.875,
+          "recent_3m_mean": 2.0,
+          "z_2026": 1.6179,
+          "z_2026_breakout": false,
+          "recent_z": 0.4221,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "債券型ETF",
+          "historical_mean": 8.1943,
+          "mean_2026": 7.5312,
+          "recent_3m_mean": 14.0,
+          "z_2026": -0.0471,
+          "z_2026_breakout": false,
+          "recent_z": 0.4121,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "長債ETF",
+          "historical_mean": 0.7057,
+          "mean_2026": 0.8125,
+          "recent_3m_mean": 2.1667,
+          "z_2026": 0.0281,
+          "z_2026_breakout": false,
+          "recent_z": 0.3841,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "月配債券ETF",
+          "historical_mean": 2.617,
+          "mean_2026": 1.4688,
+          "recent_3m_mean": 3.9167,
+          "z_2026": -0.1792,
+          "z_2026_breakout": false,
+          "recent_z": 0.2029,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "債券ETF風險",
+          "historical_mean": 0.7509,
+          "mean_2026": 3.4062,
+          "recent_3m_mean": 1.1667,
+          "z_2026": 0.6936,
+          "z_2026_breakout": false,
+          "recent_z": 0.1086,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "美元債ETF",
+          "historical_mean": 1.6651,
+          "mean_2026": 0.7188,
+          "recent_3m_mean": 1.9167,
+          "z_2026": -0.1762,
+          "z_2026_breakout": false,
+          "recent_z": 0.0468,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "投資級債ETF殖利率",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "復華能源債",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "降息長天期債券ETF",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "債券ETF會賠錢嗎",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "復華新興企業債",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "新興市場公司債ETF",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00754B",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "聯準會降息美債",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "非投資級債ETF",
+          "historical_mean": 0.3774,
+          "mean_2026": 2.9375,
+          "recent_3m_mean": 0.0,
+          "z_2026": 0.9319,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "降息債券ETF",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "新興市場債ETF",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "美元公司債ETF",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "國泰新興投等債",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "復華製藥債",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "高配息債券ETF",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "債券ETF推薦",
+          "historical_mean": 9.516,
+          "mean_2026": 4.0062,
+          "recent_3m_mean": 7.4167,
+          "z_2026": -0.4264,
+          "z_2026_breakout": false,
+          "recent_z": -0.1625,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00760B",
+          "historical_mean": 1.5,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.173,
+          "z_2026_breakout": false,
+          "recent_z": -0.173,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "債券ETF報酬率",
+          "historical_mean": 0.7623,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1906,
+          "z_2026_breakout": false,
+          "recent_z": -0.1906,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "債券ETF利率風險",
+          "historical_mean": 0.7887,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1923,
+          "z_2026_breakout": false,
+          "recent_z": -0.1923,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "投資級債ETF配息",
+          "historical_mean": 0.8538,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.195,
+          "z_2026_breakout": false,
+          "recent_z": -0.195,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "新興市場投資級債ETF",
+          "historical_mean": 0.8396,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1951,
+          "z_2026_breakout": false,
+          "recent_z": -0.1951,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "債券ETF怎麼買",
+          "historical_mean": 0.8585,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1952,
+          "z_2026_breakout": false,
+          "recent_z": -0.1952,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "降息長債",
+          "historical_mean": 0.9245,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1961,
+          "z_2026_breakout": false,
+          "recent_z": -0.1961,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "國泰優選非投等債",
+          "historical_mean": 1.0038,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.2308,
+          "z_2026_breakout": false,
+          "recent_z": -0.2308,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "投資級公司債ETF",
+          "historical_mean": 1.0528,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.2353,
+          "z_2026_breakout": false,
+          "recent_z": -0.2353,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00726B",
+          "historical_mean": 1.2217,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.2685,
+          "z_2026_breakout": false,
+          "recent_z": -0.2685,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "海外債券ETF",
+          "historical_mean": 1.4811,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.3131,
+          "z_2026_breakout": false,
+          "recent_z": -0.3131,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "美債ETF配息",
+          "historical_mean": 13.6123,
+          "mean_2026": 3.9,
+          "recent_3m_mean": 7.0,
+          "z_2026": -0.4785,
+          "z_2026_breakout": false,
+          "recent_z": -0.3258,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "債券ETF殖利率",
+          "historical_mean": 5.7349,
+          "mean_2026": 0.9062,
+          "recent_3m_mean": 2.4167,
+          "z_2026": -0.5335,
+          "z_2026_breakout": false,
+          "recent_z": -0.3666,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "利率債券ETF",
+          "historical_mean": 13.4104,
+          "mean_2026": 4.5312,
+          "recent_3m_mean": 6.3333,
+          "z_2026": -0.4929,
+          "z_2026_breakout": false,
+          "recent_z": -0.3928,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "美國20年公債ETF",
+          "historical_mean": 10.4575,
+          "mean_2026": 1.0625,
+          "recent_3m_mean": 2.8333,
+          "z_2026": -0.5201,
+          "z_2026_breakout": false,
+          "recent_z": -0.422,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "美債ETF殖利率",
+          "historical_mean": 14.9575,
+          "mean_2026": 4.8,
+          "recent_3m_mean": 6.3333,
+          "z_2026": -0.5165,
+          "z_2026_breakout": false,
+          "recent_z": -0.4385,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "美債ETF推薦",
+          "historical_mean": 11.1981,
+          "mean_2026": 0.6562,
+          "recent_3m_mean": 1.75,
+          "z_2026": -0.5854,
+          "z_2026_breakout": false,
+          "recent_z": -0.5247,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "債券ETF",
+          "historical_mean": 33.7198,
+          "mean_2026": 22.9812,
+          "recent_3m_mean": 21.0,
+          "z_2026": -0.5756,
+          "z_2026_breakout": false,
+          "recent_z": -0.6818,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "美債ETF",
+          "historical_mean": 27.1792,
+          "mean_2026": 12.8125,
+          "recent_3m_mean": 10.75,
+          "z_2026": -0.6603,
+          "z_2026_breakout": false,
+          "recent_z": -0.755,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "公債ETF",
+          "historical_mean": 32.0953,
+          "mean_2026": 15.7562,
+          "recent_3m_mean": 13.0833,
+          "z_2026": -0.732,
+          "z_2026_breakout": false,
+          "recent_z": -0.8518,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "20年美債ETF",
+          "historical_mean": 22.3868,
+          "mean_2026": 3.1375,
+          "recent_3m_mean": 2.8333,
+          "z_2026": -0.8457,
+          "z_2026_breakout": false,
+          "recent_z": -0.859,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "美國公債ETF",
+          "historical_mean": 28.4726,
+          "mean_2026": 8.5437,
+          "recent_3m_mean": 7.5833,
+          "z_2026": -0.8285,
+          "z_2026_breakout": false,
+          "recent_z": -0.8684,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00679B",
+          "historical_mean": 37.2387,
+          "mean_2026": 18.0375,
+          "recent_3m_mean": 15.0833,
+          "z_2026": -0.786,
+          "z_2026_breakout": false,
+          "recent_z": -0.907,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "債券ETF怎麼選",
+          "historical_mean": 0.0,
+          "mean_2026": 3.125,
+          "recent_3m_mean": 0.0,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "美國高收益債ETF",
+          "historical_mean": 0.0,
+          "mean_2026": 2.5,
+          "recent_3m_mean": 0.0,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": false
+        }
+      ]
+    },
+    {
+      "slug": "high_dividend_etf",
+      "label": "高股息ETF",
+      "keywords": [
+        {
+          "keyword": "00919好嗎",
+          "historical_mean": 0.0,
+          "mean_2026": 20.7312,
+          "recent_3m_mean": 36.1667,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "00929績效",
+          "historical_mean": 0.0,
+          "mean_2026": 8.2188,
+          "recent_3m_mean": 21.9167,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "00919績效",
+          "historical_mean": 0.0,
+          "mean_2026": 14.4062,
+          "recent_3m_mean": 38.4167,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "0056保管費",
+          "historical_mean": 0.0,
+          "mean_2026": 8.0,
+          "recent_3m_mean": 21.3333,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "高股息ETF稅",
+          "historical_mean": 0.0,
+          "mean_2026": 11.75,
+          "recent_3m_mean": 31.3333,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "高股息ETF風險",
+          "historical_mean": 0.0,
+          "mean_2026": 3.5,
+          "recent_3m_mean": 1.0,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "00929好嗎",
+          "historical_mean": 0.0,
+          "mean_2026": 8.1562,
+          "recent_3m_mean": 21.75,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "高股息ETF比較",
+          "historical_mean": 0.2972,
+          "mean_2026": 10.9688,
+          "recent_3m_mean": 16.9167,
+          "z_2026": 4.9327,
+          "z_2026_breakout": false,
+          "recent_z": 7.682,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "高股息ETF推薦",
+          "historical_mean": 4.1736,
+          "mean_2026": 37.225,
+          "recent_3m_mean": 53.0,
+          "z_2026": 4.077,
+          "z_2026_breakout": false,
+          "recent_z": 6.0229,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00878 00919 比較",
+          "historical_mean": 0.4717,
+          "mean_2026": 10.4437,
+          "recent_3m_mean": 18.5833,
+          "z_2026": 2.9039,
+          "z_2026_breakout": false,
+          "recent_z": 5.2742,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "月配息高股息ETF",
+          "historical_mean": 0.4717,
+          "mean_2026": 6.4688,
+          "recent_3m_mean": 13.5833,
+          "z_2026": 1.7464,
+          "z_2026_breakout": false,
+          "recent_z": 3.8182,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "高股息ETF有哪些",
+          "historical_mean": 0.6123,
+          "mean_2026": 4.5312,
+          "recent_3m_mean": 12.0833,
+          "z_2026": 1.2335,
+          "z_2026_breakout": false,
+          "recent_z": 3.6104,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0056配息",
+          "historical_mean": 14.8104,
+          "mean_2026": 29.2937,
+          "recent_3m_mean": 35.5833,
+          "z_2026": 2.4767,
+          "z_2026_breakout": false,
+          "recent_z": 3.5522,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0056報酬率",
+          "historical_mean": 4.3236,
+          "mean_2026": 24.225,
+          "recent_3m_mean": 31.0,
+          "z_2026": 2.6297,
+          "z_2026_breakout": false,
+          "recent_z": 3.5249,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00878二代健保",
+          "historical_mean": 2.3877,
+          "mean_2026": 9.1875,
+          "recent_3m_mean": 24.5,
+          "z_2026": 1.0003,
+          "z_2026_breakout": false,
+          "recent_z": 3.2531,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0056 00878 比較",
+          "historical_mean": 1.5377,
+          "mean_2026": 9.575,
+          "recent_3m_mean": 19.6667,
+          "z_2026": 1.2173,
+          "z_2026_breakout": false,
+          "recent_z": 2.7458,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00919報酬率",
+          "historical_mean": 1.9236,
+          "mean_2026": 11.4688,
+          "recent_3m_mean": 18.9167,
+          "z_2026": 1.4918,
+          "z_2026_breakout": false,
+          "recent_z": 2.6558,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00878 vs 00919",
+          "historical_mean": 0.3632,
+          "mean_2026": 5.5,
+          "recent_3m_mean": 6.3333,
+          "z_2026": 1.9427,
+          "z_2026_breakout": false,
+          "recent_z": 2.2578,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0056績效",
+          "historical_mean": 1.717,
+          "mean_2026": 8.2812,
+          "recent_3m_mean": 14.9167,
+          "z_2026": 1.0773,
+          "z_2026_breakout": false,
+          "recent_z": 2.1663,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0056 vs 00878",
+          "historical_mean": 1.684,
+          "mean_2026": 9.2625,
+          "recent_3m_mean": 13.1667,
+          "z_2026": 1.3938,
+          "z_2026_breakout": false,
+          "recent_z": 2.1118,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00878配息",
+          "historical_mean": 28.1642,
+          "mean_2026": 41.2875,
+          "recent_3m_mean": 43.3333,
+          "z_2026": 1.2207,
+          "z_2026_breakout": false,
+          "recent_z": 1.411,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0056填息",
+          "historical_mean": 3.2,
+          "mean_2026": 10.6813,
+          "recent_3m_mean": 11.1667,
+          "z_2026": 1.2895,
+          "z_2026_breakout": false,
+          "recent_z": 1.3731,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00878報酬率",
+          "historical_mean": 3.6689,
+          "mean_2026": 18.975,
+          "recent_3m_mean": 14.3333,
+          "z_2026": 1.963,
+          "z_2026_breakout": false,
+          "recent_z": 1.3677,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0056定期定額",
+          "historical_mean": 12.9981,
+          "mean_2026": 29.5562,
+          "recent_3m_mean": 29.3333,
+          "z_2026": 1.17,
+          "z_2026_breakout": false,
+          "recent_z": 1.1543,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00919",
+          "historical_mean": 17.3874,
+          "mean_2026": 35.0187,
+          "recent_3m_mean": 36.0833,
+          "z_2026": 1.0866,
+          "z_2026_breakout": false,
+          "recent_z": 1.1522,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "高股息ETF殖利率",
+          "historical_mean": 0.4528,
+          "mean_2026": 6.0938,
+          "recent_3m_mean": 2.9167,
+          "z_2026": 2.4421,
+          "z_2026_breakout": false,
+          "recent_z": 1.0666,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00929報酬率",
+          "historical_mean": 0.9745,
+          "mean_2026": 4.9688,
+          "recent_3m_mean": 4.9167,
+          "z_2026": 0.9781,
+          "z_2026_breakout": false,
+          "recent_z": 0.9653,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00878費用",
+          "historical_mean": 4.0575,
+          "mean_2026": 6.1813,
+          "recent_3m_mean": 11.0833,
+          "z_2026": 0.2472,
+          "z_2026_breakout": false,
+          "recent_z": 0.8178,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "群益台灣精選高息",
+          "historical_mean": 19.9321,
+          "mean_2026": 40.2563,
+          "recent_3m_mean": 34.1667,
+          "z_2026": 1.0746,
+          "z_2026_breakout": false,
+          "recent_z": 0.7526,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0056 00878",
+          "historical_mean": 35.8066,
+          "mean_2026": 42.9562,
+          "recent_3m_mean": 44.75,
+          "z_2026": 0.5825,
+          "z_2026_breakout": false,
+          "recent_z": 0.7286,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "高股息ETF定期定額",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.75,
+          "recent_3m_mean": 2.0,
+          "z_2026": 0.1356,
+          "z_2026_breakout": false,
+          "recent_z": 0.5907,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00929定期定額",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.9062,
+          "recent_3m_mean": 2.4167,
+          "z_2026": 0.1265,
+          "z_2026_breakout": false,
+          "recent_z": 0.5664,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "高股息ETF缺點",
+          "historical_mean": 0.9764,
+          "mean_2026": 3.875,
+          "recent_3m_mean": 3.0833,
+          "z_2026": 0.7117,
+          "z_2026_breakout": false,
+          "recent_z": 0.5173,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0056成分股",
+          "historical_mean": 31.7868,
+          "mean_2026": 38.4125,
+          "recent_3m_mean": 36.5,
+          "z_2026": 0.7079,
+          "z_2026_breakout": false,
+          "recent_z": 0.5036,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00878",
+          "historical_mean": 42.9849,
+          "mean_2026": 47.45,
+          "recent_3m_mean": 48.4167,
+          "z_2026": 0.3252,
+          "z_2026_breakout": false,
+          "recent_z": 0.3956,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00919成分股",
+          "historical_mean": 9.3104,
+          "mean_2026": 14.2562,
+          "recent_3m_mean": 13.4167,
+          "z_2026": 0.4736,
+          "z_2026_breakout": false,
+          "recent_z": 0.3932,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00713好嗎",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.5312,
+          "recent_3m_mean": 1.4167,
+          "z_2026": 0.056,
+          "z_2026_breakout": false,
+          "recent_z": 0.3783,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0056 00878 差別",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.5625,
+          "recent_3m_mean": 1.5,
+          "z_2026": 0.0264,
+          "z_2026_breakout": false,
+          "recent_z": 0.2994,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00919費用",
+          "historical_mean": 2.684,
+          "mean_2026": 8.2063,
+          "recent_3m_mean": 4.0833,
+          "z_2026": 0.6974,
+          "z_2026_breakout": false,
+          "recent_z": 0.1767,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "高股息ETF配息稅",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.375,
+          "recent_3m_mean": 1.0,
+          "z_2026": -0.0282,
+          "z_2026_breakout": false,
+          "recent_z": 0.1538,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "高股息ETF年化報酬率",
+          "historical_mean": 0.7877,
+          "mean_2026": 0.375,
+          "recent_3m_mean": 1.0,
+          "z_2026": -0.1008,
+          "z_2026_breakout": false,
+          "recent_z": 0.0518,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00878收益平準金",
+          "historical_mean": 1.2594,
+          "mean_2026": 0.4375,
+          "recent_3m_mean": 1.1667,
+          "z_2026": -0.1577,
+          "z_2026_breakout": false,
+          "recent_z": -0.0178,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00940好嗎",
+          "historical_mean": 1.0358,
+          "mean_2026": 0.3125,
+          "recent_3m_mean": 0.8333,
+          "z_2026": -0.1234,
+          "z_2026_breakout": false,
+          "recent_z": -0.0346,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00919 00929",
+          "historical_mean": 18.1245,
+          "mean_2026": 14.7375,
+          "recent_3m_mean": 15.8333,
+          "z_2026": -0.1586,
+          "z_2026_breakout": false,
+          "recent_z": -0.1073,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0056怎麼買",
+          "historical_mean": 5.7906,
+          "mean_2026": 1.6562,
+          "recent_3m_mean": 4.4167,
+          "z_2026": -0.345,
+          "z_2026_breakout": false,
+          "recent_z": -0.1147,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "陳重銘 0056",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "柴鼠兄弟 高股息",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "高股息自製月配息",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "高股息ETF左手換右手",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "清流君 高股息",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        }
+      ]
+    },
+    {
+      "slug": "market_cap_etf",
+      "label": "市值型ETF",
+      "keywords": [
+        {
+          "keyword": "00922報酬率",
+          "historical_mean": 0.0,
+          "mean_2026": 3.25,
+          "recent_3m_mean": 2.0,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "00922績效",
+          "historical_mean": 0.0,
+          "mean_2026": 8.4375,
+          "recent_3m_mean": 22.5,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "009816好嗎",
+          "historical_mean": 0.0,
+          "mean_2026": 23.1625,
+          "recent_3m_mean": 33.1667,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "009816定期定額",
+          "historical_mean": 0.0,
+          "mean_2026": 20.6875,
+          "recent_3m_mean": 12.8333,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "元大台灣卓越50 ETF連結基金",
+          "historical_mean": 0.0,
+          "mean_2026": 3.7188,
+          "recent_3m_mean": 1.5833,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "市值型ETF定期定額",
+          "historical_mean": 0.0,
+          "mean_2026": 3.125,
+          "recent_3m_mean": 8.3333,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "00922定期定額",
+          "historical_mean": 0.0,
+          "mean_2026": 6.25,
+          "recent_3m_mean": 16.6667,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "市值型ETF費用",
+          "historical_mean": 0.0,
+          "mean_2026": 6.25,
+          "recent_3m_mean": 16.6667,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "0050台積電比重",
+          "historical_mean": 0.0,
+          "mean_2026": 3.125,
+          "recent_3m_mean": 8.3333,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "00922費用",
+          "historical_mean": 0.0,
+          "mean_2026": 3.125,
+          "recent_3m_mean": 8.3333,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "009816費用",
+          "historical_mean": 0.0,
+          "mean_2026": 20.9812,
+          "recent_3m_mean": 23.75,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "009816成分股",
+          "historical_mean": 0.0189,
+          "mean_2026": 28.7375,
+          "recent_3m_mean": 20.75,
+          "z_2026": 209.0748,
+          "z_2026_breakout": false,
+          "recent_z": 150.9249,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "006208 009816",
+          "historical_mean": 0.0566,
+          "mean_2026": 36.175,
+          "recent_3m_mean": 34.3333,
+          "z_2026": 87.6486,
+          "z_2026_breakout": false,
+          "recent_z": 83.1795,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "009816績效",
+          "historical_mean": 0.3443,
+          "mean_2026": 26.6187,
+          "recent_3m_mean": 45.3333,
+          "z_2026": 10.4811,
+          "z_2026_breakout": false,
+          "recent_z": 17.9466,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "元大台灣50",
+          "historical_mean": 8.5528,
+          "mean_2026": 44.2313,
+          "recent_3m_mean": 50.25,
+          "z_2026": 10.3853,
+          "z_2026_breakout": false,
+          "recent_z": 12.1373,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0050績效",
+          "historical_mean": 1.6179,
+          "mean_2026": 48.3062,
+          "recent_3m_mean": 49.5833,
+          "z_2026": 11.0831,
+          "z_2026_breakout": false,
+          "recent_z": 11.3862,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0050",
+          "historical_mean": 11.0906,
+          "mean_2026": 57.4,
+          "recent_3m_mean": 68.75,
+          "z_2026": 7.8095,
+          "z_2026_breakout": false,
+          "recent_z": 9.7235,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0050配息",
+          "historical_mean": 12.2632,
+          "mean_2026": 49.425,
+          "recent_3m_mean": 60.0833,
+          "z_2026": 5.4052,
+          "z_2026_breakout": false,
+          "recent_z": 6.9555,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0050費用",
+          "historical_mean": 4.5774,
+          "mean_2026": 59.9062,
+          "recent_3m_mean": 56.5833,
+          "z_2026": 5.8859,
+          "z_2026_breakout": false,
+          "recent_z": 5.5324,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "台灣50 ETF",
+          "historical_mean": 5.2764,
+          "mean_2026": 52.9813,
+          "recent_3m_mean": 39.5833,
+          "z_2026": 6.7024,
+          "z_2026_breakout": false,
+          "recent_z": 4.82,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0050保管銀行",
+          "historical_mean": 2.3509,
+          "mean_2026": 19.975,
+          "recent_3m_mean": 25.3333,
+          "z_2026": 3.533,
+          "z_2026_breakout": false,
+          "recent_z": 4.6072,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0050成分股",
+          "historical_mean": 12.0453,
+          "mean_2026": 38.1437,
+          "recent_3m_mean": 32.0,
+          "z_2026": 4.9287,
+          "z_2026_breakout": false,
+          "recent_z": 3.7684,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "台股大盤ETF",
+          "historical_mean": 0.3962,
+          "mean_2026": 11.7188,
+          "recent_3m_mean": 10.75,
+          "z_2026": 3.9252,
+          "z_2026_breakout": false,
+          "recent_z": 3.5894,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "大盤ETF",
+          "historical_mean": 13.4264,
+          "mean_2026": 48.8375,
+          "recent_3m_mean": 57.0833,
+          "z_2026": 2.7024,
+          "z_2026_breakout": false,
+          "recent_z": 3.3317,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0050配息稅",
+          "historical_mean": 0.4717,
+          "mean_2026": 3.875,
+          "recent_3m_mean": 10.3333,
+          "z_2026": 0.9911,
+          "z_2026_breakout": false,
+          "recent_z": 2.8718,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "富邦台50",
+          "historical_mean": 26.3736,
+          "mean_2026": 45.5312,
+          "recent_3m_mean": 50.4167,
+          "z_2026": 2.1537,
+          "z_2026_breakout": false,
+          "recent_z": 2.7029,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "006208配息",
+          "historical_mean": 17.2792,
+          "mean_2026": 27.2312,
+          "recent_3m_mean": 44.0833,
+          "z_2026": 0.8864,
+          "z_2026_breakout": false,
+          "recent_z": 2.3875,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0050分割",
+          "historical_mean": 3.4594,
+          "mean_2026": 16.4125,
+          "recent_3m_mean": 24.0833,
+          "z_2026": 1.3771,
+          "z_2026_breakout": false,
+          "recent_z": 2.1926,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0050 00922",
+          "historical_mean": 10.9368,
+          "mean_2026": 53.3687,
+          "recent_3m_mean": 47.5833,
+          "z_2026": 2.5186,
+          "z_2026_breakout": false,
+          "recent_z": 2.1752,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "市值型ETF推薦",
+          "historical_mean": 2.5585,
+          "mean_2026": 8.4125,
+          "recent_3m_mean": 14.25,
+          "z_2026": 0.9266,
+          "z_2026_breakout": false,
+          "recent_z": 1.8507,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "市值型ETF有哪些",
+          "historical_mean": 8.4009,
+          "mean_2026": 40.9062,
+          "recent_3m_mean": 33.0,
+          "z_2026": 2.2721,
+          "z_2026_breakout": false,
+          "recent_z": 1.7194,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0050連結基金",
+          "historical_mean": 12.2349,
+          "mean_2026": 49.975,
+          "recent_3m_mean": 41.75,
+          "z_2026": 1.8378,
+          "z_2026_breakout": false,
+          "recent_z": 1.4373,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "006208費用",
+          "historical_mean": 2.5311,
+          "mean_2026": 10.5938,
+          "recent_3m_mean": 13.25,
+          "z_2026": 0.9907,
+          "z_2026_breakout": false,
+          "recent_z": 1.3171,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "006208",
+          "historical_mean": 29.1066,
+          "mean_2026": 44.7938,
+          "recent_3m_mean": 50.0833,
+          "z_2026": 0.9523,
+          "z_2026_breakout": false,
+          "recent_z": 1.2734,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "006208保管銀行",
+          "historical_mean": 5.1934,
+          "mean_2026": 6.0,
+          "recent_3m_mean": 16.0,
+          "z_2026": 0.0846,
+          "z_2026_breakout": false,
+          "recent_z": 1.1335,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "市值型ETF是什麼",
+          "historical_mean": 2.4887,
+          "mean_2026": 8.0125,
+          "recent_3m_mean": 9.75,
+          "z_2026": 0.8482,
+          "z_2026_breakout": false,
+          "recent_z": 1.115,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "006208績效",
+          "historical_mean": 0.4104,
+          "mean_2026": 4.4062,
+          "recent_3m_mean": 3.4167,
+          "z_2026": 1.3375,
+          "z_2026_breakout": false,
+          "recent_z": 1.0063,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "市值型ETF",
+          "historical_mean": 24.0764,
+          "mean_2026": 52.075,
+          "recent_3m_mean": 44.1667,
+          "z_2026": 1.181,
+          "z_2026_breakout": false,
+          "recent_z": 0.8475,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "006208成分股",
+          "historical_mean": 16.3792,
+          "mean_2026": 27.5875,
+          "recent_3m_mean": 27.3333,
+          "z_2026": 0.6611,
+          "z_2026_breakout": false,
+          "recent_z": 0.6461,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "台股市值型ETF",
+          "historical_mean": 1.1491,
+          "mean_2026": 1.5625,
+          "recent_3m_mean": 4.1667,
+          "z_2026": 0.0682,
+          "z_2026_breakout": false,
+          "recent_z": 0.4978,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "台灣市值型ETF",
+          "historical_mean": 0.9906,
+          "mean_2026": 2.8312,
+          "recent_3m_mean": 3.0833,
+          "z_2026": 0.435,
+          "z_2026_breakout": false,
+          "recent_z": 0.4945,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "0050 006208費用",
+          "historical_mean": 1.1302,
+          "mean_2026": 6.4688,
+          "recent_3m_mean": 3.4167,
+          "z_2026": 1.1352,
+          "z_2026_breakout": false,
+          "recent_z": 0.4862,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00922配息",
+          "historical_mean": 12.3755,
+          "mean_2026": 24.1187,
+          "recent_3m_mean": 18.1667,
+          "z_2026": 0.8851,
+          "z_2026_breakout": false,
+          "recent_z": 0.4365,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "市值型ETF配息",
+          "historical_mean": 3.3311,
+          "mean_2026": 5.5,
+          "recent_3m_mean": 6.0,
+          "z_2026": 0.267,
+          "z_2026_breakout": false,
+          "recent_z": 0.3286,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00922成分股",
+          "historical_mean": 14.4896,
+          "mean_2026": 28.5562,
+          "recent_3m_mean": 19.25,
+          "z_2026": 0.803,
+          "z_2026_breakout": false,
+          "recent_z": 0.2717,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "006208配息稅",
+          "historical_mean": 1.1179,
+          "mean_2026": 2.7375,
+          "recent_3m_mean": 2.1667,
+          "z_2026": 0.3514,
+          "z_2026_breakout": false,
+          "recent_z": 0.2276,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "市值型ETF風險",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.375,
+          "recent_3m_mean": 1.0,
+          "z_2026": -0.0282,
+          "z_2026_breakout": false,
+          "recent_z": 0.1538,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "006208定期定額",
+          "historical_mean": 11.5104,
+          "mean_2026": 15.8688,
+          "recent_3m_mean": 10.1667,
+          "z_2026": 0.2823,
+          "z_2026_breakout": false,
+          "recent_z": -0.087,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "006208台積電比重",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "市值型ETF保管費",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        }
+      ]
+    },
+    {
+      "slug": "sector_etf",
+      "label": "產業型ETF",
+      "keywords": [
+        {
+          "keyword": "ETF套牢",
+          "historical_mean": 0.0,
+          "mean_2026": 6.5,
+          "recent_3m_mean": 17.3333,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "ETF單位數",
+          "historical_mean": 0.0,
+          "mean_2026": 8.625,
+          "recent_3m_mean": 23.0,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "新能源ETF",
+          "historical_mean": 0.0,
+          "mean_2026": 7.1188,
+          "recent_3m_mean": 14.5833,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "ETF調節",
+          "historical_mean": 0.0,
+          "mean_2026": 3.125,
+          "recent_3m_mean": 8.3333,
+          "z_2026": null,
+          "z_2026_breakout": true,
+          "recent_z": null,
+          "recent_z_breakout": true
+        },
+        {
+          "keyword": "半導體漲價",
+          "historical_mean": 0.3302,
+          "mean_2026": 8.5312,
+          "recent_3m_mean": 22.75,
+          "z_2026": 4.7992,
+          "z_2026_breakout": false,
+          "recent_z": 13.1199,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "半導體下跌",
+          "historical_mean": 0.3538,
+          "mean_2026": 10.7812,
+          "recent_3m_mean": 28.75,
+          "z_2026": 4.0487,
+          "z_2026_breakout": false,
+          "recent_z": 11.0255,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "野村台灣新科技50",
+          "historical_mean": 0.2972,
+          "mean_2026": 15.7625,
+          "recent_3m_mean": 19.25,
+          "z_2026": 7.1485,
+          "z_2026_breakout": false,
+          "recent_z": 8.7606,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "產業ETF",
+          "historical_mean": 1.8991,
+          "mean_2026": 25.6687,
+          "recent_3m_mean": 28.8333,
+          "z_2026": 4.6738,
+          "z_2026_breakout": false,
+          "recent_z": 5.2961,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "AI ETF風險",
+          "historical_mean": 0.4009,
+          "mean_2026": 5.375,
+          "recent_3m_mean": 14.3333,
+          "z_2026": 1.7041,
+          "z_2026_breakout": false,
+          "recent_z": 4.7731,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "科技ETF成分股",
+          "historical_mean": 1.8679,
+          "mean_2026": 21.9812,
+          "recent_3m_mean": 22.5,
+          "z_2026": 4.0889,
+          "z_2026_breakout": false,
+          "recent_z": 4.1944,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00891",
+          "historical_mean": 15.8858,
+          "mean_2026": 39.9625,
+          "recent_3m_mean": 47.5,
+          "z_2026": 3.0911,
+          "z_2026_breakout": false,
+          "recent_z": 4.0588,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00935",
+          "historical_mean": 10.033,
+          "mean_2026": 42.8,
+          "recent_3m_mean": 51.3333,
+          "z_2026": 2.8101,
+          "z_2026_breakout": false,
+          "recent_z": 3.5419,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "醫療ETF",
+          "historical_mean": 1.1764,
+          "mean_2026": 16.6187,
+          "recent_3m_mean": 13.4167,
+          "z_2026": 4.1223,
+          "z_2026_breakout": false,
+          "recent_z": 3.2675,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "產業ETF成分股",
+          "historical_mean": 0.4481,
+          "mean_2026": 3.5,
+          "recent_3m_mean": 9.3333,
+          "z_2026": 0.9355,
+          "z_2026_breakout": false,
+          "recent_z": 2.7236,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "金融ETF",
+          "historical_mean": 21.9472,
+          "mean_2026": 41.2875,
+          "recent_3m_mean": 41.8333,
+          "z_2026": 2.1516,
+          "z_2026_breakout": false,
+          "recent_z": 2.2123,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "ETF規模",
+          "historical_mean": 17.7085,
+          "mean_2026": 46.175,
+          "recent_3m_mean": 42.0833,
+          "z_2026": 2.4894,
+          "z_2026_breakout": false,
+          "recent_z": 2.1316,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "AI股修正",
+          "historical_mean": 0.7623,
+          "mean_2026": 5.725,
+          "recent_3m_mean": 9.0,
+          "z_2026": 1.2412,
+          "z_2026_breakout": false,
+          "recent_z": 2.0602,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "能源ETF",
+          "historical_mean": 7.7642,
+          "mean_2026": 43.3688,
+          "recent_3m_mean": 32.4167,
+          "z_2026": 2.7935,
+          "z_2026_breakout": false,
+          "recent_z": 1.9342,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00892",
+          "historical_mean": 26.3189,
+          "mean_2026": 35.95,
+          "recent_3m_mean": 51.5833,
+          "z_2026": 0.4567,
+          "z_2026_breakout": false,
+          "recent_z": 1.1981,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "ETF換股",
+          "historical_mean": 5.9774,
+          "mean_2026": 18.1438,
+          "recent_3m_mean": 19.75,
+          "z_2026": 1.0369,
+          "z_2026_breakout": false,
+          "recent_z": 1.1738,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "5G ETF",
+          "historical_mean": 9.1991,
+          "mean_2026": 29.4,
+          "recent_3m_mean": 27.3333,
+          "z_2026": 1.1887,
+          "z_2026_breakout": false,
+          "recent_z": 1.0671,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "ETF折溢價",
+          "historical_mean": 8.5943,
+          "mean_2026": 19.8188,
+          "recent_3m_mean": 18.3333,
+          "z_2026": 1.0647,
+          "z_2026_breakout": false,
+          "recent_z": 0.9238,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "生技新藥",
+          "historical_mean": 5.1075,
+          "mean_2026": 5.25,
+          "recent_3m_mean": 14.0,
+          "z_2026": 0.0133,
+          "z_2026_breakout": false,
+          "recent_z": 0.8292,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00935 除息",
+          "historical_mean": 0.7849,
+          "mean_2026": 1.2812,
+          "recent_3m_mean": 3.4167,
+          "z_2026": 0.1215,
+          "z_2026_breakout": false,
+          "recent_z": 0.6442,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "ETF調整成分股",
+          "historical_mean": 0.2981,
+          "mean_2026": 2.9375,
+          "recent_3m_mean": 1.1667,
+          "z_2026": 1.2161,
+          "z_2026_breakout": false,
+          "recent_z": 0.4002,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "ETF怎麼選",
+          "historical_mean": 1.217,
+          "mean_2026": 1.1562,
+          "recent_3m_mean": 3.0833,
+          "z_2026": -0.0119,
+          "z_2026_breakout": false,
+          "recent_z": 0.367,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "ETF規模創新高",
+          "historical_mean": 0.7094,
+          "mean_2026": 0.6875,
+          "recent_3m_mean": 1.8333,
+          "z_2026": -0.0057,
+          "z_2026_breakout": false,
+          "recent_z": 0.2945,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "ETF泡沫",
+          "historical_mean": 0.7,
+          "mean_2026": 5.8812,
+          "recent_3m_mean": 1.75,
+          "z_2026": 1.4499,
+          "z_2026_breakout": false,
+          "recent_z": 0.2938,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "科技股修正",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.4375,
+          "recent_3m_mean": 1.1667,
+          "z_2026": 0.0219,
+          "z_2026_breakout": false,
+          "recent_z": 0.2873,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "ETF申購",
+          "historical_mean": 2.8198,
+          "mean_2026": 8.1687,
+          "recent_3m_mean": 4.1667,
+          "z_2026": 0.7978,
+          "z_2026_breakout": false,
+          "recent_z": 0.2009,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "ETF淨值",
+          "historical_mean": 24.9509,
+          "mean_2026": 27.4688,
+          "recent_3m_mean": 25.8333,
+          "z_2026": 0.2472,
+          "z_2026_breakout": false,
+          "recent_z": 0.0866,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "軍工ETF",
+          "historical_mean": 2.3113,
+          "mean_2026": 17.8438,
+          "recent_3m_mean": 2.5,
+          "z_2026": 2.4844,
+          "z_2026_breakout": false,
+          "recent_z": 0.0302,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "富邦台灣半導體",
+          "historical_mean": 8.6415,
+          "mean_2026": 6.4688,
+          "recent_3m_mean": 8.0833,
+          "z_2026": -0.1424,
+          "z_2026_breakout": false,
+          "recent_z": -0.0366,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "現在買半導體ETF會不會太晚",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00892 vs 00904",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "ETF資金流入",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "產業ETF會賠錢嗎",
+          "historical_mean": 0.3774,
+          "mean_2026": 2.4,
+          "recent_3m_mean": 0.0,
+          "z_2026": 0.7363,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "產業ETF比較",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "科技ETF資金流入",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "半導體ETF風險",
+          "historical_mean": 0.3774,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "產業ETF怎麼選",
+          "historical_mean": 0.4717,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1374,
+          "z_2026_breakout": false,
+          "recent_z": -0.1374,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "航運ETF",
+          "historical_mean": 2.9811,
+          "mean_2026": 2.7313,
+          "recent_3m_mean": 1.0833,
+          "z_2026": -0.0215,
+          "z_2026_breakout": false,
+          "recent_z": -0.1635,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "人形機器人ETF",
+          "historical_mean": 0.6189,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1914,
+          "z_2026_breakout": false,
+          "recent_z": -0.1914,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "半導體庫存",
+          "historical_mean": 0.6491,
+          "mean_2026": 0.0,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.1935,
+          "z_2026_breakout": false,
+          "recent_z": -0.1935,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "中信綠能電動車",
+          "historical_mean": 6.7774,
+          "mean_2026": 2.1313,
+          "recent_3m_mean": 3.4167,
+          "z_2026": -0.314,
+          "z_2026_breakout": false,
+          "recent_z": -0.2271,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "綠能ETF",
+          "historical_mean": 2.9887,
+          "mean_2026": 0.0938,
+          "recent_3m_mean": 0.25,
+          "z_2026": -0.3161,
+          "z_2026_breakout": false,
+          "recent_z": -0.299,
+          "recent_z_breakout": false
+        },
+        {
+          "keyword": "00893 淨值",
+          "historical_mean": 7.8368,
+          "mean_2026": 0.925,
+          "recent_3m_mean": 0.0,
+          "z_2026": -0.4736,
+          "z_2026_breakout": false,
+          "recent_z": -0.537,
+          "recent_z_breakout": false
+        }
+      ]
+    }
+  ]
+}
