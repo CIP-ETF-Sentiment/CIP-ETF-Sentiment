@@ -1,5 +1,4 @@
-import { readFile } from "node:fs/promises";
-import path from "node:path";
+import rawDataset from "@/public/data/trends.json";
 
 type RawTrends = Record<
   string,
@@ -20,16 +19,13 @@ export type KeywordSeries = {
   points: { date: string; value: number | null }[];
 };
 
-// trends.json is ~5MB — read once per server process and reuse across
-// requests instead of re-parsing it on every call.
-let rawTrendsCache: Promise<RawTrends> | null = null;
+// trends.json is ~5MB — a static import lets the bundler include it once at
+// build time instead of re-reading/parsing it from disk on every request
+// (and avoids Vercel's serverless file-tracing missing a dynamic fs path).
+const rawTrends = rawDataset as RawTrends;
 
 function loadRawTrends(): Promise<RawTrends> {
-  if (!rawTrendsCache) {
-    const filePath = path.join(process.cwd(), "public", "data", "trends.json");
-    rawTrendsCache = readFile(filePath, "utf-8").then((raw) => JSON.parse(raw) as RawTrends);
-  }
-  return rawTrendsCache;
+  return Promise.resolve(rawTrends);
 }
 
 // Aggregates the per-keyword weekly CSVs (backend/raw/*.csv, parsed into
