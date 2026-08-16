@@ -55,12 +55,15 @@ function setupCanvas(canvas: HTMLCanvasElement, height = 230) {
 
 function CategoryTrendCanvas({ trends, selectedSlug }: { trends: TrendSeries; selectedSlug: string }) {
   const ref = useRef<HTMLCanvasElement>(null);
+  const rows = useMemo(() => trends.rows.slice(-104), [trends]);
+  const [hoveredPoint,setHoveredPoint] = useState<{ index:number; x:number; alignLeft:boolean } | null>(null);
+  const hoveredIndex = hoveredPoint?.index ?? null;
+  const chartPad = { l:32, r:20, t:14, b:28 };
   useCanvasSize(ref, (canvas) => {
     const ready = setupCanvas(canvas);
     if (!ready) return;
     const { ctx, width, height } = ready;
-    const rows = trends.rows.slice(-104);
-    const pad = { l:32, r:20, t:14, b:28 };
+    const pad = chartPad;
     const values = rows.flatMap(row => trends.categories.map(category => typeof row[category.slug] === "number" ? row[category.slug] as number : 0));
     const max = Math.max(10, Math.ceil(Math.max(...values) / 10) * 10);
     ctx.font = "9px sans-serif";
@@ -95,8 +98,90 @@ function CategoryTrendCanvas({ trends, selectedSlug }: { trends: TrendSeries; se
       ctx.stroke();
     });
     ctx.globalAlpha = 1;
-  }, [trends, selectedSlug]);
-  return <canvas ref={ref} role="img" aria-label="五大 ETF 分類真實週平均趨勢" />;
+
+    if (hoveredIndex !== null && rows[hoveredIndex]) {
+      const x = pad.l + (hoveredIndex/Math.max(1,rows.length-1))*(width-pad.l-pad.r);
+      ctx.save();
+      ctx.strokeStyle = "rgba(39,48,42,.38)";
+      ctx.lineWidth = 1;
+      ctx.setLineDash([3,3]);
+      ctx.beginPath(); ctx.moveTo(x,pad.t); ctx.lineTo(x,height-pad.b); ctx.stroke();
+      ctx.setLineDash([]);
+      trends.categories.forEach(category => {
+        const value = rows[hoveredIndex][category.slug];
+        if (typeof value !== "number") return;
+        const colorIndex = CATEGORY_ORDER.indexOf(category.slug);
+        const y = height-pad.b-(value/max)*(height-pad.t-pad.b);
+        ctx.beginPath();
+        ctx.arc(x,y,category.slug===selectedSlug ? 4.5 : 3.2,0,Math.PI*2);
+        ctx.fillStyle = CATEGORY_COLORS[colorIndex] ?? "#9bd48e";
+        ctx.fill();
+        ctx.lineWidth = 1.5;
+        ctx.strokeStyle = "#fff";
+        ctx.stroke();
+      });
+      ctx.restore();
+    }
+  }, [trends, selectedSlug, hoveredIndex, rows]);
+
+  const hoveredRow = hoveredIndex === null ? null : rows[hoveredIndex];
+  const previousRow = hoveredIndex === null || hoveredIndex === 0 ? null : rows[hoveredIndex-1];
+
+  function updateHoveredPoint(clientX: number) {
+    const canvas = ref.current;
+    if (!canvas || rows.length === 0) return;
+    const rect = canvas.getBoundingClientRect();
+    const localX = (clientX-rect.left)*(canvas.clientWidth/rect.width);
+    const plotWidth = canvas.clientWidth-chartPad.l-chartPad.r;
+    if (localX < chartPad.l || localX > canvas.clientWidth-chartPad.r) {
+      setHoveredPoint(null);
+      return;
+    }
+    const index = Math.round(((localX-chartPad.l)/Math.max(1,plotWidth))*(rows.length-1));
+    const safeIndex = Math.max(0,Math.min(rows.length-1,index));
+    const x = chartPad.l + (safeIndex/Math.max(1,rows.length-1))*plotWidth;
+    setHoveredPoint(current => current?.index===safeIndex && current.x===x
+      ? current
+      : {index:safeIndex,x,alignLeft:x>canvas.clientWidth*.58});
+  }
+
+  return <div className="category-chart-interactive">
+    <canvas
+      ref={ref}
+      role="img"
+      aria-label="五大 ETF 分類真實週平均趨勢；將滑鼠移到圖表可查看每週五項分類指標"
+      onPointerMove={event=>updateHoveredPoint(event.clientX)}
+      onPointerLeave={()=>setHoveredPoint(null)}
+    />
+    {hoveredRow&&<div
+      className={`category-hover-dashboard ${hoveredPoint?.alignLeft?"align-left":"align-right"}`}
+      style={{left:hoveredPoint?.x ?? 0}}
+      role="status"
+      aria-live="polite"
+    >
+      <div className="category-hover-date"><span>週頻指標</span><b>{String(hoveredRow.date)}</b></div>
+      <div className="category-hover-columns"><span>分類</span><span>數值</span><span>較前週</span></div>
+      <div className="category-hover-metrics">
+        {[...trends.categories].sort((categoryA,categoryB)=>{
+          const valueA = hoveredRow[categoryA.slug];
+          const valueB = hoveredRow[categoryB.slug];
+          if (typeof valueA !== "number") return typeof valueB === "number" ? 1 : 0;
+          if (typeof valueB !== "number") return -1;
+          return valueB-valueA;
+        }).map(category=>{
+          const colorIndex = CATEGORY_ORDER.indexOf(category.slug);
+          const value = hoveredRow[category.slug];
+          const previousValue = previousRow?.[category.slug];
+          const delta = typeof value === "number" && typeof previousValue === "number" ? value-previousValue : null;
+          return <div key={category.slug} className={category.slug===selectedSlug?"active":""}>
+            <span><i style={{background:CATEGORY_COLORS[colorIndex] ?? "#9bd48e"}} />{category.label.replace("ETF","")}</span>
+            <b>{typeof value === "number"?value.toFixed(2):"—"}</b>
+            <small className={(delta ?? 0)>=0?"up":"down"}>{delta===null?"—":`${delta>=0?"+":""}${delta.toFixed(2)}`}</small>
+          </div>;
+        })}
+      </div>
+    </div>}
+  </div>;
 }
 
 function KeywordLineCanvas({ series }: { series: KeywordSeries }) {
