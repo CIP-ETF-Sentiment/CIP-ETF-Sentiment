@@ -393,7 +393,7 @@ export default function Home() {
   return (
     <main className="app-shell">
       <aside className="sidebar">
-        <div className="brand-mark"><img src="/cathay-logo.webp" alt="國泰投信 Cathay Securities Investment Trust" /></div>
+        <div className="brand-mark"><span className="brand-title">CIP 小樹洞</span></div>
         <nav aria-label="部門儀表板">
           {(Object.keys(departments) as Department[]).map(key=><button key={key} className={department===key?"active":""} onClick={()=>setDepartment(key)}><i>{key==="marketing"?"M":key==="sales"?"S":"P"}</i><span>{departments[key].label}<small>{departments[key].kicker}</small></span></button>)}
           <button onClick={()=>document.getElementById("trend-map")?.scrollIntoView({behavior:"smooth"})}><i>⌁</i><span>趨勢雷達<small>50 組關鍵字</small></span></button>
