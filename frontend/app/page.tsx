@@ -405,7 +405,7 @@ export default function Home() {
       <section className="workspace">
         <header className="topbar">
           <div className="breadcrumb"><span>ETF 專區</span><b>›</b>Google Trends 決策台<b>›</b>{currentDepartment.label}</div>
-          <div className="top-actions"><button aria-label="搜尋" onClick={()=>document.getElementById("keyword-search")?.focus()}>⌕</button><button onClick={exportCsv}>匯出報告 <span>↗</span></button><div className="avatar">RP</div></div>
+          <div className="top-actions"><button aria-label="搜尋" onClick={()=>document.getElementById("keyword-search")?.focus()}>⌕</button><button onClick={exportCsv}>匯出報告 <span>↗</span></button><div className="avatar">User</div></div>
         </header>
 
         <div className="content">
