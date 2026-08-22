@@ -3,7 +3,9 @@
 import { FormEvent, KeyboardEvent, useEffect, useMemo, useRef, useState } from "react";
 import AgentChat from "./components/AgentChat";
 import CipDataSection from "./components/CipDataSection";
+import EtfProductTable from "./components/EtfProductTable";
 import MarketingDeck from "./components/MarketingDeck";
+import SalesDashboard from "./components/SalesDashboard";
 
 type Department = "marketing" | "sales" | "product";
 type Algorithm = "composite" | "heat" | "growth" | "predict";
@@ -202,7 +204,7 @@ function TrendCanvas({ period }: { period: Period }) {
       const pad = { l: 34, r: 16, t: 18, b: 28 };
       ctx.strokeStyle = "rgba(33,37,41,.12)";
       ctx.lineWidth = 1;
-      ctx.font = "11px sans-serif";
+      ctx.font = "12px sans-serif";
       ctx.fillStyle = "rgba(33,37,41,.52)";
       for (let i = 0; i <= 4; i++) {
         const y = pad.t + ((h - pad.t - pad.b) / 4) * i;
@@ -258,7 +260,7 @@ function CategoryTrendCanvas({ active }: { active: EtfCategory }) {
       ctx.scale(ratio, ratio);
       ctx.clearRect(0, 0, w, h);
       const pad = { l: 28, r: 24, t: 16, b: 30 };
-      ctx.font = "10px sans-serif";
+      ctx.font = "12px sans-serif";
       ctx.fillStyle = "rgba(33,37,41,.48)";
       ctx.strokeStyle = "rgba(33,37,41,.10)";
       [0,10,20,30,40].forEach(value => {
@@ -393,7 +395,10 @@ export default function Home() {
   return (
     <main className="app-shell">
       <aside className="sidebar">
-        <div className="brand-mark"><img src="/cathay-logo.webp" alt="國泰投信 Cathay Securities Investment Trust" /></div>
+        <div className="brand-mark" aria-label="CIP 小樹洞">
+          <span className="brand-cip">CIP</span>
+          <span>小樹洞</span>
+        </div>
         <nav aria-label="部門儀表板">
           {(Object.keys(departments) as Department[]).map(key=><button key={key} className={department===key?"active":""} onClick={()=>setDepartment(key)}><i>{key==="marketing"?"M":key==="sales"?"S":"P"}</i><span>{departments[key].label}<small>{departments[key].kicker}</small></span></button>)}
           <button onClick={()=>document.getElementById("trend-map")?.scrollIntoView({behavior:"smooth"})}><i>⌁</i><span>趨勢雷達<small>50 組關鍵字</small></span></button>
@@ -405,10 +410,11 @@ export default function Home() {
       <section className="workspace">
         <header className="topbar">
           <div className="breadcrumb"><span>ETF 專區</span><b>›</b>Google Trends 決策台<b>›</b>{currentDepartment.label}</div>
-          <div className="top-actions"><button aria-label="搜尋" onClick={()=>document.getElementById("keyword-search")?.focus()}>⌕</button><button onClick={exportCsv}>匯出報告 <span>↗</span></button><div className="avatar">User</div></div>
+          <div className="top-actions"><button aria-label="搜尋" onClick={()=>document.getElementById("keyword-search")?.focus()}>⌕</button><button onClick={()=>department==="sales"?document.getElementById("sales-export")?.click():exportCsv()}>匯出報告 <span>↗</span></button><div className="avatar">User</div></div>
         </header>
 
         <div className="content">
+          {department === "sales" ? <SalesDashboard /> : <>
           <section className="mode-tabs" aria-label="主要視圖">
             <button className="active">{currentDepartment.label}決策台</button>
             <button onClick={()=>document.getElementById("trend-map")?.scrollIntoView({behavior:"smooth"})}>關鍵字全景</button>
@@ -459,12 +465,15 @@ export default function Home() {
               <aside className="insight-panel">
                 <div className="insight-top"><span className="tag">{selected.category}</span><small>INSIGHT / 01</small></div><h3>{selected.name}</h3><p className="insight-summary">{selected.custom?"新關鍵字已加入追蹤清單，串接資料庫後將自動取得 Google Trends 指數。":selected.growth>50?"搜尋動能正快速升溫，適合先建立內容卡位，並觀察是否延續兩個週期。":selected.heat>30?"目前仍有明顯搜尋需求，適合作為比較頁、業務話術與搜尋廣告的主要入口。":"屬於長尾或事件型訊號，建議搭配產品檔期觀察，不單獨重押預算。"}</p>
                 <div className="insight-metrics"><div><span>近 13 週</span><b>{selected.heat}</b></div><div><span>最新指數</span><b>{selected.latest}</b></div><div><span>動能</span><b className={selected.growth>=0?"positive":"negative"}>{selected.growth>=0?"+":""}{selected.growth}%</b></div></div>
-                <div className="signal-list"><div><i className="signal green" /><span><b>搜尋意圖</b><small>{selected.name.includes("績效")?"驗證型":selected.name.includes("持股")||selected.name.includes("換股")?"研究型":"探索型"}</small></span></div><div><i className="signal yellow" /><span><b>建議內容</b><small>{selected.category==="同業"?"同業比較卡":selected.category==="洞察"?"深度解讀":"新手選擇指南"}</small></span></div><div><i className="signal blue" /><span><b>優先渠道</b><small>{department==="marketing"?"FB + Threads":department==="sales"?"業務話術庫":"產品情報站"}</small></span></div></div>
+                <div className="signal-list"><div><i className="signal green" /><span><b>搜尋意圖</b><small>{selected.name.includes("績效")?"驗證型":selected.name.includes("持股")||selected.name.includes("換股")?"研究型":"探索型"}</small></span></div><div><i className="signal yellow" /><span><b>建議內容</b><small>{selected.category==="同業"?"同業比較卡":selected.category==="洞察"?"深度解讀":"新手選擇指南"}</small></span></div><div><i className="signal blue" /><span><b>優先渠道</b><small>{department==="marketing"?"FB + Threads":"產品情報站"}</small></span></div></div>
                 <button className="primary-action" onClick={()=>showToast(`已將「${selected.name}」加入下月策略`)}>加入下月策略 <span>＋</span></button>
               </aside>
             </div>
             <p className="data-disclaimer">Google Trends 指數為 0–100 的相對搜尋熱度，不等同實際搜尋量；跨字詞比較應以共同基準詞校正。本 MVP 依附檔週頻資料彙整，資料截至 2026/08/09。</p>
           </section>
+
+          <EtfProductTable />
+          </>}
         </div>
       </section>
 

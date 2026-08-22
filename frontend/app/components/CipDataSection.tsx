@@ -66,7 +66,7 @@ function CategoryTrendCanvas({ trends, selectedSlug }: { trends: TrendSeries; se
     const pad = chartPad;
     const values = rows.flatMap(row => trends.categories.map(category => typeof row[category.slug] === "number" ? row[category.slug] as number : 0));
     const max = Math.max(10, Math.ceil(Math.max(...values) / 10) * 10);
-    ctx.font = "9px sans-serif";
+    ctx.font = "11px sans-serif";
     ctx.fillStyle = "rgba(33,37,41,.48)";
     ctx.strokeStyle = "rgba(33,37,41,.10)";
     for (let index=0; index<=4; index+=1) {
@@ -192,7 +192,7 @@ function KeywordLineCanvas({ series }: { series: KeywordSeries }) {
     const { ctx, width, height } = ready;
     const points = series.points.slice(-104).filter(point => typeof point.value === "number");
     const pad = { l:32, r:20, t:14, b:28 };
-    ctx.font = "9px sans-serif";
+    ctx.font = "11px sans-serif";
     ctx.fillStyle = "rgba(33,37,41,.48)";
     ctx.strokeStyle = "rgba(33,37,41,.10)";
     for (let index=0; index<=4; index+=1) {
